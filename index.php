@@ -1,12 +1,12 @@
 <html>
 
 <head>
-<title>Hello World Krish!</title>
+<title>Hello World Krishnan!</title>
 </head>
 
 <body>
 
-<?php echo "Hello Krishnan World Krish!"; ?>
+<?php echo "Hello Krishnan!!"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
